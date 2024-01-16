@@ -24,3 +24,4 @@ Contributions are welcome! Feel free to:
 * Submit fixes or enhancements.
 * Propose new features.
 * Offer ideas to improve the app.
+
